@@ -1,0 +1,4 @@
+Manifest-Version: 1.0.3
+Main-Class: com.hcb.screensync.main.HcbWindow
+Built-By: linhong
+Build-Jdk: 1.7.0_79
